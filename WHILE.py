@@ -1,0 +1,22 @@
+x = 1
+
+while x < 10:
+    print(x)
+    x += 1
+
+print("Fin.")
+
+
+#Ejemplo 2
+x = 1
+while x < 11:
+    print("Bruno")
+    x += 1
+
+print("Fin.")
+
+
+
+
+
+
